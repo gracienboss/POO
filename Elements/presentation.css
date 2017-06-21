@@ -1,0 +1,14 @@
+
+body{
+    background: pink;
+}
+flex-half{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-half div{
+    width: 50%;
+}
+
